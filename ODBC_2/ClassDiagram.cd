@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Odbc">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAIAAkABAAQiCAAgAAAAMJAAACARACwAkAWABAAAgA=</HashCode>
+      <FileName>Odbc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ColumnInfo">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAEAEAAABAAAAAAAIBCAAAAQAAAA=</HashCode>
+      <FileName>Odbc.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TableInfo">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Odbc.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Field">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Odbc.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Record">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Odbc.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
