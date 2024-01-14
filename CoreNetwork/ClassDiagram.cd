@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AsyncSelect">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAIAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>AsyncSelect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetUser">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAQIhCAAAAAAAAAQgAAAIAAAACAAAFAAAAAAAAAA=</HashCode>
+      <FileName>NetUser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Network">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIACAAAEAACAAAAEAAAgMAAAAAAEAAA=</HashCode>
+      <FileName>Network.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Packet">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAEJACAAgACAAAAAAAAAAAAAACAACA=</HashCode>
+      <FileName>Packet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="__unnamed_struct_0172_1">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Protocol.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0172_2">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Protocol.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ChatMsg">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Protocol.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="PACKET_HEADER" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Protocol.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="UPACKET" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Protocol.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="P_UPACKET" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Protocol.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

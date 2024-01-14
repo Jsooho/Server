@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=SQL Server
+UID=sa
+DATABASE=TestUser
+WSID=KGCA370
+APP=Microsoft¢ç Windows¢ç Operating System
+SERVER=127.0.0.1
